@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\EntityFramework.dll
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\EntityFramework.xml
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CopyComplete

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SerialComModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CubeData">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Guid" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="RawValue" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Length" Type="decimal" Precision="4" Scale="2" Nullable="false" />
+    <Property Name="Width" Type="decimal" Precision="4" Scale="2" Nullable="false" />
+    <Property Name="Height" Type="decimal" Precision="4" Scale="2" Nullable="false" />
+    <Property Name="Weight" Type="decimal" Precision="4" Scale="2" Nullable="false" />
+    <Property Name="BarCode" Type="char" MaxLength="13" />
+    <Property Name="MachineId" Type="varchar" MaxLength="50" />
+    <Property Name="DateTime" Type="datetime2" Precision="7" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SerialComModelStoreContainer">
+    <EntitySet Name="CubeData" EntityType="Self.CubeData" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
